@@ -1,8 +1,1 @@
-﻿  ConsoleApplication1.cpp
-G:\_practica_\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,15): warning C4101: d0: неиспользованная локальная переменная
-G:\_practica_\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,12): warning C4101: x: неиспользованная локальная переменная
-G:\_practica_\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,9): warning C4101: mas2: неиспользованная локальная переменная
-G:\_practica_\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,9): warning C4101: mas3: неиспользованная локальная переменная
-G:\_practica_\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22,18): warning C4101: O: неиспользованная локальная переменная
-G:\_practica_\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,12): warning C4101: d: неиспользованная локальная переменная
-  ConsoleApplication1.vcxproj -> G:\_practica_\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  ConsoleApplication1.vcxproj -> D:\_practica_\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

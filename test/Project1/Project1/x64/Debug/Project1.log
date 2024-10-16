@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\_practica_\test\Project1\Project1\Source.cpp(54,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\_practica_\test\Project1\Project1\Source.cpp(136,12): warning C4101: x: неиспользованная локальная переменная
+D:\_practica_\test\Project1\Project1\Source.cpp(132,15): warning C4101: j: неиспользованная локальная переменная
+D:\_practica_\test\Project1\Project1\Source.cpp(132,12): warning C4101: i: неиспользованная локальная переменная
+D:\_practica_\test\Project1\Project1\Source.cpp(135,12): warning C4101: mas3: неиспользованная локальная переменная
+D:\_practica_\test\Project1\Project1\Source.cpp(133,12): warning C4101: d: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\_practica_\test\Project1\x64\Debug\Project1.exe
